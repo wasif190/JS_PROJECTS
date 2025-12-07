@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Earbuds",
+    "description": "Noise cancellation and 20 hours of playback.",
+    "price": 1299
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Band",
+    "description": "Tracks steps, sleep, and heart rate.",
+    "price": 1899
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse (RGB)",
+    "description": "7200 DPI sensor with customizable lights.",
+    "price": 949
+  },
+  {
+    "id": 4,
+    "name": "USB LED Desk Lamp",
+    "description": "Adjustable neck and three brightness levels.",
+    "price": 499
+  },
+  {
+    "id": 5,
+    "name": "Portable Bluetooth Speaker",
+    "description": "Water-resistant with deep bass sound.",
+    "price": 1599
+  },
+  {
+    "id": 6,
+    "name": "Type-C Fast Charger",
+    "description": "22.5W fast charging for all Type-C phones.",
+    "price": 699
+  },
+  {
+    "id": 7,
+    "name": "64GB USB Pendrive",
+    "description": "USB 3.0 for high-speed data transfer.",
+    "price": 999
+  },
+  {
+    "id": 8,
+    "name": "Notebook (200 pages)",
+    "description": "A4 size, smooth paper for notes.",
+    "price": 199
+  },
+  {
+    "id": 9,
+    "name": "Stylish Water Bottle (1L)",
+    "description": "Steel insulated bottle for hot & cold drinks.",
+    "price": 449
+  },
+  {
+    "id": 10,
+    "name": "Laptop Cooling Pad",
+    "description": "Dual fans and adjustable height stand.",
+    "price": 799
+  }
+]
